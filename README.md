@@ -42,17 +42,13 @@ by an appropriate NGO.
 5. Team Member Details:
 
 1) Name: Soumesh Khare
-   Roll no. : 12113079
    Github username: soumesh113
    
 2) Name: Sushmit Bhalothia
-   Roll No. : 12113089
    Github username: Sushmit-Bhalothia
    
 3) Name: Rohit Chopra
-   Roll No. : 12113132
    Github username: RohitChopra435
    
 4) Name: Shilpa Pandey
-   Roll No. : 12113101
    Github username: Shilpa7pandey
