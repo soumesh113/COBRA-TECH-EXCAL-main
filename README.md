@@ -19,7 +19,7 @@ iv)  Difficulty in finding or utilizing leftover medicines.
 The Medicine Distribution System proposed here aims at providing an online platform for donating unused or unrequired medicines to needy people.On this 
 platform, users can register themselves by providing their necessary details. Once registered as donors, the users can provide the required details for the
 concerned medicines, as well as the pickup address, and these details will be verified by an admin, after which they can be approved and available for 
-other users to request. The System will maintain a record of avaiable and donated medicines as well as their status. The system and delivery can be managed 
+other users to request. The System will maintain a record of available and donated medicines as well as their status. The system and delivery can be managed 
 by an appropriate NGO.
 
 3. Sytem Description:
